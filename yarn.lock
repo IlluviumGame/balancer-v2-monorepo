@@ -132,7 +132,7 @@ __metadata:
     eslint: "npm:^8.26.0"
     eslint-plugin-prettier: "npm:^4.2.1"
     ethers: "npm:^5.7.2"
-    graphql: "npm:^16.6.0"
+    graphql: "npm:^16.8.1"
     graphql-request: "npm:^5.2.0"
     hardhat: "npm:^2.12.5"
     hardhat-ignore-warnings: "npm:^0.2.4"
@@ -6869,10 +6869,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"graphql@npm:^16.6.0":
-  version: 16.6.0
-  resolution: "graphql@npm:16.6.0"
-  checksum: 686582916b9ca247f3562f086c34a6363155475da909e1f891f9a76a3b5273ed6c7034cd5a82e768670ac5a74d539a6f1be282253a92b49be3a489fc82e83a5b
+"graphql@npm:^16.8.1":
+  version: 16.8.1
+  resolution: "graphql@npm:16.8.1"
+  checksum: e3a95625d233c1d13c6f1df659f66955f582cb95dddb8407558090376088abcc414f39ed387a549541fca8cee681f3a5976253b6f53a5d47930dd129a5030143
   languageName: node
   linkType: hard
 
